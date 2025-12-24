@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: test
+    url: 
+    about: test
+  - name: test
+    url: https://github.com/7saval/mygit
+    about: test
